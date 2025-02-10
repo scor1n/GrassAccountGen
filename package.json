@@ -1,0 +1,14 @@
+{
+  "name": "GrassAccountGen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SCOR1N",
+  "license": "ISC",
+  "dependencies": {
+    "ffi-napi": "^3.1.0"
+  }
+}
