@@ -1,6 +1,6 @@
 # GrassAccountGen
 
-This project generates multiple Grass accounts using proxies and solves captchas using CapSolver.
+This project generates multiple Grass accounts using proxies and solves captchas using CapSolver. This was a simple script and will likely not be updated. Don't expect this to have well written code, it was done in a rush. 
 
 ## Prerequisites
 
